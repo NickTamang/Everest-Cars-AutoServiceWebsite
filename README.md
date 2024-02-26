@@ -1,6 +1,6 @@
 
 Thing-S@ulster.ac.uk
-Site Live at [https://nickxvlogs.github.io/Ulster-University-Project--Everest-Cars/](https://nicktamang.github.io/Everest-Cars-AutoServiceWebsite/)
+Site Live at (https://nicktamang.github.io/Everest-Cars-AutoServiceWebsite/)
  
 Contents
 COM458 (34885 ) - Dynamic Web Authoring. 2022-23.	1
